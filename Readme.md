@@ -1,3 +1,7 @@
+# IMPORTANT
+
+此 fork 仅仅是基于原分支修改了 v0.3 版本使得 v0.3 支持 php5.6-7.4，详见[PR-80](https://github.com/picqer/php-barcode-generator/pull/80)
+
 # PHP Barcode Generator [![Build Status](https://travis-ci.org/picqer/php-barcode-generator.svg?branch=master)](https://travis-ci.org/picqer/php-barcode-generator) [![Total Downloads](https://poser.pugx.org/picqer/php-barcode-generator/downloads)](https://packagist.org/packages/picqer/php-barcode-generator)
 This is an easy to use, non-bloated, framework independent, barcode generator in PHP.
 
